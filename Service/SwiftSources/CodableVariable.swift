@@ -1,4 +1,5 @@
 import Foundation
+import eDistantObject
 
 /// CodableVariable wraps a `Codable` instance to make it compatible with @objc methods.
 ///

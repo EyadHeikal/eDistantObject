@@ -1,3 +1,6 @@
+import Foundation
+import eDistantObject
+
 /// Fetches a remote class object from the app process.
 ///
 /// The caller of this method should pass the local class object in its process as @c theClass.
